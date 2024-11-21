@@ -7,5 +7,6 @@ public class _19_11_2024 {
         System.out.println("name");
         System.out.println("is");
         System.out.println("!");
+        System.out.print("Hello, my name is !");
     }
 }
