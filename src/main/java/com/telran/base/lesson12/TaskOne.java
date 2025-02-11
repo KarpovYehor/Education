@@ -9,7 +9,7 @@ public class TaskOne {
         TaskOne taskOne = new TaskOne();
         int number = taskOne.getMax(array);
         System.out.println(number);
-
+        
     }
 
     public int getMax(int[] array) {
