@@ -66,14 +66,4 @@ public class LemonadeTask {
     public static void getSOUT(List<Integer> listMoney , int bill, int i){
         System.out.println((i + 1) + " pay " + "$" + bill +  "   ||   " +  listMoney);
     }
-
-    public static void checkMoney (List<Integer> listMoney, int number ){
-        int num = 5;
-        if (number == num){
-            Scanner scanner = null;
-            listMoney.add(scanner.nextInt());
-        }
-    }
-
-
 }
